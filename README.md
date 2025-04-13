@@ -6,3 +6,5 @@ This project aims to investigate the use of short forms of adjectives in a typol
 
 ## Technical data
 The project is in the form of a ready-to-use jupyter notebook. After cloning this repo, please, go to [this link](https://drive.google.com/file/d/1qNlxOF3FUx4ZWcku9oFqxy0UKH5TH632/view?usp=sharing) and [this link](https://drive.google.com/file/d/1LXOrBB7OnakQtlZFyQB72LcvJtsVkrvL/view?usp=sharing), to download necessary data archives. When you download them, move them to the cloned repository and unzip. They are NECESSARY, but due to the limitations of git, including git lfs, we were not able to include them in the repo.
+
+The notebook can be run on local desktop, as well as in Google Colab (recommended). In order to run the notebook in Google Colab succesfully, please, after cloning this repo, put the repo directory on your Google Drive.
