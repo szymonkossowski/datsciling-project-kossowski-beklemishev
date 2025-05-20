@@ -14,4 +14,6 @@ The project objective was to determine how is the choice of the adjective form i
 
 The adjective tokens were filtered out, sorted and given one format.
 
+You can find the methodological considerations and bibliography in our project proposal.
+
 #TODO
